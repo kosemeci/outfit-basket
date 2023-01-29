@@ -1,0 +1,32 @@
+﻿  asıl.cpp
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(102,31): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(104,31): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(296,10): warning C4102: 'adres': etiket başvurusu kaldırıldı
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(367,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(369,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(373,39): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(498,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(501,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(503,39): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(530,34): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(532,34): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(518,8): warning C4102: 'durum12': etiket başvurusu kaldırıldı
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(783,38): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(786,38): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(789,38): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(832,46): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(835,52): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(839,52): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(843,54): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(847,52): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(851,50): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(855,54): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(819,34): warning C4101: 'choose': yerel değişken başvurusu kaldırıldı
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(989,37): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(1002,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(1094,41): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(1234,26): warning C4102: 'kuryeekle': etiket başvurusu kaldırıldı
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(1368,19): warning C4102: 'kullaniciKayit': etiket başvurusu kaldırıldı
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(1186,12): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\asıl\asıl.cpp(96): warning C4715: 'dobKontrol': tüm denetim yolları değer döndürmez
+  asıl.vcxproj -> C:\Users\Casper\Desktop\OOP PROJE\sonHali\sonHali\x64\Debug\asıl.exe

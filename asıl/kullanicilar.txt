@@ -1,0 +1,21 @@
+
+Emin Kosemeci,Emin3496,05553332211
+Alper Kose,Alpalp123,05380209916
+Ahmet Demir,Ahmet5858,05385858361
+Salih Demirayak,Slhbgr12,Sifrem123,05678020211,19/08/2000,demirAhmet@gmail.com,Akcaabat
+Elif Kaplan,aybkk,Elif12345,05324678954,15/03/1999,elifaybk@gmail.com,Sürmene
+Abdurrahman Kayahan,kyhn06,Kartal06,05435670206,12/12/1998,kayahanab@gmail.com,Ortahisar
+Yusuf Kutukcuoglu,yusuf3437,Yusuf1905,05053287857,14/08/2001,ktkcoglu37@gmail.com,Arsin-YENIYIL30
+Cenk Cesur,melancoly,Cessur123,0534375986,11/05/2002,cesurcenk37@gmail.com,Arakli
+Mert Aslankaya,aslan66,Mertinsifresi1,05347895621,16/07/1999,aslankayamert@gmail.com,Ortahisar
+Ilker Uslu,bond07,Uilker12,05264895778,12/12/1999,ilkeruslu37@gmail.com,Macka-YENIYIL10
+Sedanur Kosemeci,kvrck54,Sedak123,05324563754,18/03/1997,bonibonumseda@gmail.com,Besikduzu
+Ali aliyev,alyv1,aliyevS12,05324355678,12/05/2002,aliyev12@gmail.com,Akcaabat-YENIYIL20
+Hudahan Altun,05326989948
+Emre Kurt,05357891257
+Osman Cakmak,05478961224
+Burak Koseler,koseler123,Burak123,05380209915,11/05/2000,koseler55@gmail.com,Caykara
+Ali yesilyurt,yeslyrt,Yesilyurt12,05051111111,12/04/1999,aliyev@gmail.com,Ortahisar
+Dries Martens,martens12,Gsray1234,05053333333,12/05/1999,gomis@gmail.com,Ortahisar
+mert aslan,aslan56,Aslan1234,05055555555,12/08/1999,aslan@gmail.com,Ortahisar
+taha cakmak,cakmak,Waspwasp1,01234567896,14/01/1998,cakmak@mail.com,Akcaabat
