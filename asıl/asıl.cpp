@@ -1,7 +1,3 @@
-﻿
-//394769-Bayram Alperen Kösemeci
-//399719-Ali Aliyev
-//365271-Ali YEŞİLYURT
 
 #include <stdio.h>
 #include <iostream>
